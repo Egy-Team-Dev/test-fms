@@ -1,0 +1,48 @@
+.management {
+  ul {
+    list-style: none;
+    li {
+      margin-bottom: 10px;
+      font-size: 16px;
+      font-weight: 600;
+      input {
+        margin-right: 10px;
+      }
+    }
+  }
+  .items-grouped {
+    // background-color: white;
+    padding: 20px 10px;
+    border: 1px solid gray;
+    height: 360px;
+    overflow: scroll;
+    overflow-x: hidden;
+  }
+  .items-ungrouped {
+    // background-color: $card-bg;
+    padding: 20px 10px;
+    border: 1px solid gray;
+    height: 500px;
+    overflow: scroll;
+    overflow-x: hidden;
+  }
+
+  // Select 
+  .css-1s2u09g-control {
+    background-color: inherit;
+  }
+  .css-1pahdxg-control {
+    background-color: inherit;
+    
+  
+  }
+  
+ 
+  .css-qc6sy-singleValue {
+    color: inherit;
+  }
+}
+
+.dark  .css-26l3qy-menu {
+  background-color: #222738;
+}

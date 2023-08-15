@@ -1,0 +1,19 @@
+.camera-btn {
+margin-right: 16px;
+border-radius: 6px;
+background-color: #246C66;
+// min-height: 32px;
+margin-top: 5px;
+
+}
+
+.button__elements {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin: 0 8px;
+//  margin: 3px;
+ img {
+  margin-right: 8px;
+ }
+}
